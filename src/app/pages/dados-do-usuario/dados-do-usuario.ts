@@ -11,5 +11,5 @@ import { RouterLink, RouterModule } from '@angular/router';
   styleUrl: './dados-do-usuario.css',
 })
 export class DadosDoUsuario {
-
+  
 }
